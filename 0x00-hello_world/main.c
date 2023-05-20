@@ -2,5 +2,5 @@
 
 int main ()
 {
-	printf("Test File");
+	printf("Test File\n");
 }
