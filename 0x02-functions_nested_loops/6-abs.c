@@ -3,6 +3,8 @@
 /**
  * _abs - Entry point
  *
+ * @n: function argument
+ *
  * Description: This program returns 1 if a character is lowercase
  * otherwise 0 using putchar header prototype
  *
@@ -15,12 +17,12 @@ int _abs(int n)
 
 	if (n >= 0)
 	{
-		return(n);
+		return (n);
 	}
 	else
 	{
 		n = (-1) * n;
-		return(n);
+		return (n);
 	}
 }
 
