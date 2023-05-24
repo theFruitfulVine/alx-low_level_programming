@@ -3,8 +3,8 @@
 /**
  * print_alphabet_x10 - Entry point
  *
- * Description: This program prints lower case alphabets using
- * putchar header prototype
+ * Description: This program prints lower case alphabets ten times
+ * using putchar header prototype
  *
  * Return: Always 0 (Success)
  *
