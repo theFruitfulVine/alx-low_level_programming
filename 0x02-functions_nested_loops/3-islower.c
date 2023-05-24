@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_islower- Entry point
+ *_islower(int c)- Entry point
  *
  * Description: This program returns 1 if a character is lowercase
  * otherwise 0 using putchar header prototype
