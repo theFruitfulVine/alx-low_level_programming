@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - Entry point
  *
  * Description: This program prints lower case alphabets using
  * putchar header prototype
@@ -10,14 +10,14 @@
  *
  */
 
-int main(void)
+void print_alphabet(void)
 {
-	char a;
+	char c;
 
-	for (a = 'a'; a <= 'z'; a++)
+	for (c = 'a' ; c <= 'z' ; c++)
 	{
-		_putchar(a);
+		_putchar(c);
 	}
 	_putchar('\n');
-	return (0);
 }
+
