@@ -13,8 +13,6 @@
 int _abs(int n)
 {
 
-	n = n % 10;
-
 	if (n >= 0)
 	{
 		return(n);
