@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- *_isalpha(int c)- Entry point
+ * print_sign - Entry point
+ *
+ * @n - input parameter
  *
  * Description: This program returns 1 if a character is lowercase
  * otherwise 0 using putchar header prototype
