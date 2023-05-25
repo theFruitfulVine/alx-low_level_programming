@@ -1,21 +1,21 @@
 #include "main.h"
 
 /**
- *_islower - Entry point
+ * add - Entry point
  *
- * @c - input parameter
+ * @a: first integer
+ * @b: secind integer
  *
- * Description: This program returns 1 if a character is lowercase
- * otherwise 0 using putchar header prototype
+ * Description: This program returns the sum of two digits
  *
- * Return: 1 (Success) or 0 (Failure)
- *
+ * Return: sum of both integers
  */
 
 int add(int a, int b)
 {
 
 	int sum = (a + b);
+
 	return (sum);
 }
 
